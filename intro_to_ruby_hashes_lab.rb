@@ -94,7 +94,7 @@ def monopoly_with_fourth_tier
 
 
     }#end rent in dollars
-  } #end railroads
+  
 } #end monopoly
 
 
