@@ -10,7 +10,7 @@ end
 def monopoly
 
 	monopoly = {railroads: {}
-    
+
 
 
 
@@ -28,7 +28,7 @@ def monopoly
 
 
 
-  
+
 
 end
 
