@@ -11,7 +11,7 @@ end
 
 
 
-def monopoly
+def monopoly_with_first_tier
   monopoly =  {
   :railroads=>
   {}
